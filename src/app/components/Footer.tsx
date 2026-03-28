@@ -1,6 +1,6 @@
 import { motion } from 'motion/react';
 import { GraduationCap, Mail, Phone, MapPin } from 'lucide-react';
-import logo from 'figma:asset/5c3ac69eed99e3349b91b4e467d8218dd1285409.png';
+import logo from '../../assets/5c3ac69eed99e3349b91b4e467d8218dd1285409.png';
 
 export function Footer() {
   const currentYear = new Date().getFullYear();

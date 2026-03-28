@@ -1,6 +1,6 @@
 import { motion } from 'motion/react';
 import { ArrowRight, Star, Users, Trophy, BookOpen } from 'lucide-react';
-import heroImage from 'figma:asset/033e642ac646d40a5f1c7586d7120041a0f44ac0.png';
+import heroImage from '../../assets/033e642ac646d40a5f1c7586d7120041a0f44ac0.png';
 import { ImageWithFallback } from './figma/ImageWithFallback';
 
 interface HeroSectionProps {

@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react';
 import { Menu, X, GraduationCap, LogIn, LogOut } from 'lucide-react';
 import { motion, AnimatePresence } from 'motion/react';
-import logo from 'figma:asset/5c3ac69eed99e3349b91b4e467d8218dd1285409.png';
+import logo from '../../assets/5c3ac69eed99e3349b91b4e467d8218dd1285409.png';
 
 interface NavigationBarProps {
   isAdminMode: boolean;
